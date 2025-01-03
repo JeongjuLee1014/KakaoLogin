@@ -4,6 +4,6 @@ public class Login : MonoBehaviour
 {
     private void OnMouseDown()
     {
-        Application.OpenURL("https://localhost:7058/api/login");
+        Application.OpenURL("https://localhost:7032/api/login/kakao");
     }
 }

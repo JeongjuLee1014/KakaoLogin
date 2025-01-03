@@ -351,6 +351,7 @@ GameObject:
   - component: {fileID: 635970326}
   - component: {fileID: 635970325}
   - component: {fileID: 635970327}
+  - component: {fileID: 635970328}
   m_Layer: 0
   m_Name: kakao_login_medium_narrow_0
   m_TagString: Untagged
@@ -474,6 +475,18 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.83, y: 0.45}
   m_EdgeRadius: 0
+--- !u!114 &635970328
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 635970324}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bbc104a081972d4cb1f4d287cf3748f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1616109690
 GameObject:
   m_ObjectHideFlags: 0
